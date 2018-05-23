@@ -1,4 +1,4 @@
-m=int(input("Enter two numbers:"))
+m=int(input())
 n=int(input())
 for i in range(m+1,n):
     if (i%2)!=0:
