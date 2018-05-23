@@ -1,3 +1,3 @@
-num=int(input("Enter two numbers"))
+num=int(input())
 power=int(input())
 print(num**power)
